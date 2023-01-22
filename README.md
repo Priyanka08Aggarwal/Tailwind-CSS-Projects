@@ -1,6 +1,6 @@
 # Tailwind-CSS-Projects
 
-#### This read me file conatins the links to github repositories and deployment(Live) links of tailwind projects(Front-End):-
+#### This read me file contains the links of github repositories and deployment(Live) links of tailwind projects(Front-End):-
 
 ## Shopify Clone:-
 ### Github Link: https://github.com/Priyanka08Aggarwal/Shopify-Clone
